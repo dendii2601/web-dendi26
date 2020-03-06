@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1540454859 source:d:\habiib\b.habib\masa kuliah\tugas 05\main.c
+	<stdio.h>
+	<stdlib.h>
+	<float.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1540459172 source:d:\tugas 05\main.c
+	<stdio.h>
+	<stdlib.h>
+	<float.h>
+	<string.h>
+	<math.h>
+	<time.h>
+

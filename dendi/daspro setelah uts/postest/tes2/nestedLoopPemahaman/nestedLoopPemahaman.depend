@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1543474526 source:c:\users\single\documents\c\nestedlooppemahaman\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1543476528 source:c:\users\labdas\downloads\nestedlooppemahaman\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1553827474 source:f:\squentialsort\fungsi.c
+	"header.h"
+
+1553827992 f:\squentialsort\header.h
+	<stdio.h>
+	<stdlib.h>
+

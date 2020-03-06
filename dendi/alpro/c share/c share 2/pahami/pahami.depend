@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1553308652 source:d:\alpro\c share\c share 2\pahami\fungsi.c
+	"header.h"
+
+1553309264 d:\alpro\c share\c share 2\pahami\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1553311440 source:d:\alpro\c share\c share 2\pahami\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

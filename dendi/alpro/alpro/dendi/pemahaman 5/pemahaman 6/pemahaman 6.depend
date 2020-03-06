@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1554431295 source:c:\users\labjarkom\documents\dendi\pemahaman 6\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1554431214 source:c:\users\labjarkom\documents\dendi\pemahaman 6\fungsi.c
+	"header.h"
+
+1554429780 c:\users\labjarkom\documents\dendi\pemahaman 6\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1554431296 source:d:\alpro\alpro\dendi\pemahaman 5\pemahaman 6\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1554431244 source:e:\pemahaman sequential\fungsi.c
+	"header.h"
+
+1554429661 e:\pemahaman sequential\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1554430324 source:e:\pemahaman sequential\main.c
+	"header.h"
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1561519134 source:d:\habiib\ta rld\rangkaian logika\fungsi.c
+	"pustaka.h"
+
+1561519134 d:\habiib\ta rld\rangkaian logika\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1561519134 source:c:\users\userpc\downloads\dendi\rangkaian logika\fungsi.c
+	"pustaka.h"
+
+1561519134 c:\users\userpc\downloads\dendi\rangkaian logika\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1561519807 source:c:\users\userpc\downloads\dendi\rangkaian logika\main.c
+	"pustaka.h"
+

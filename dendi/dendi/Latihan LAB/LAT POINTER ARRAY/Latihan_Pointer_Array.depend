@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1559105154 source:f:\latihan_pointer_array\main.c
+	"header.h"
+
+1559104688 f:\latihan_pointer_array\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1559104996 source:f:\latihan_pointer_array\fungsi.c
+	"header.h"
+

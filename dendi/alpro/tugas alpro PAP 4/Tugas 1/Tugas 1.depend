@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1521889309 source:e:\#kuliah\alpro\tugas ( ibrahim sattar 10184 ) pap 4\tugas 1\fungsi.c
+	"header.h"
+
+1521889399 source:e:\#kuliah\alpro\tugas ( ibrahim sattar 10184 ) pap 4\tugas 1\main.c
+	"header.h"
+
+1521889356 e:\#kuliah\alpro\tugas ( ibrahim sattar 10184 ) pap 4\tugas 1\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1521889310 source:d:\wkwkkk\tugas ( ibrahim sattar 10184 ) pap 4\tugas 1\fungsi.c
+	"header.h"
+
+1521889356 d:\wkwkkk\tugas ( ibrahim sattar 10184 ) pap 4\tugas 1\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1521889400 source:d:\wkwkkk\tugas ( ibrahim sattar 10184 ) pap 4\tugas 1\main.c
+	"header.h"
+
+1553772942 source:d:\alpro\tugas alpro pap 4\tugas 1\fungsi.c
+	"header.h"
+
+1553772496 d:\alpro\tugas alpro pap 4\tugas 1\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1553772824 source:d:\alpro\tugas alpro pap 4\tugas 1\main.c
+	"header.h"
+

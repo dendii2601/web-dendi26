@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1559100813 source:e:\poin\pustaka.c
+	"pustaka.h"
+
+1559100813 e:\poin\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1559101747 source:e:\poin\main.c
+	"pustaka.h"
+

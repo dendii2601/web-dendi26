@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1552618124 source:f:\alpro\pertemuan3\fungsi.c
+	"header.h"
+
+1552616986 f:\alpro\pertemuan3\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1552618298 source:f:\alpro\pertemuan3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1552618298 source:d:\alpro\pertemuan3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1552616986 d:\alpro\pertemuan3\header.h
+	<stdio.h>
+	<stdlib.h>
+

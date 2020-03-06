@@ -1,0 +1,11 @@
+#include "header.h"
+
+void printArray(int *arrData, int size)
+{
+    int x;
+    for(x=0; x<size; x++)
+        {
+            printf(" %d ", *arrData);
+            arrData++;
+        }
+}

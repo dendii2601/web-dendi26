@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1561687938 source:e:\data asisten\orl\alpro\prauas\pra uas\main.c
+	"header.h"
+
+1561689304 e:\data asisten\orl\alpro\prauas\pra uas\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1561689324 source:e:\data asisten\orl\alpro\prauas\pra uas\fungsi.c
+	"header.h"
+
+1561690346 source:c:\users\labjarkom\downloads\prauas\pra uas\fungsi.c
+	"header.h"
+
+1561691254 c:\users\labjarkom\downloads\prauas\pra uas\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1561690322 source:c:\users\labjarkom\downloads\prauas\pra uas\main.c
+	"header.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1560480546 source:f:\struct_version_3file\main.c
+	"header.h"
+
+1560481544 f:\struct_version_3file\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1560481696 source:f:\struct_version_3file\fungsi.c
+	"header.h"
+

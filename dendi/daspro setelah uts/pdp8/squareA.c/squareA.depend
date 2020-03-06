@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544000062 source:g:\squarea\main.c
+	<stdio.h>
+	<stdlib.h>
+

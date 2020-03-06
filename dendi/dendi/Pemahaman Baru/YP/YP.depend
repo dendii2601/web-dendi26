@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1561086109 source:e:\pemahaman baru\yp\main.c
+	"header.h"
+
+1561086109 e:\pemahaman baru\yp\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1561086302 source:e:\pemahaman baru\yp\fungsi.c
+	"header.h"
+
+1562195842 source:c:\users\userpc\downloads\dendi\pemahaman baru\yp\fungsi.c
+	"header.h"
+
+1562195844 c:\users\userpc\downloads\dendi\pemahaman baru\yp\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1562195844 source:c:\users\userpc\downloads\dendi\pemahaman baru\yp\main.c
+	"header.h"
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1558664296 source:e:\pemahaman_array_rekursif\fungsi.c
+	"header.h"
+
+1558664276 e:\pemahaman_array_rekursif\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1558664109 source:e:\pemahaman_array_rekursif\main.c
+	"header.h"
+
+1558702210 source:f:\pemahaman_array_rekursif\fungsi.c
+	"header.h"
+
+1558700030 f:\pemahaman_array_rekursif\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1558702158 source:f:\pemahaman_array_rekursif\main.c
+	"header.h"
+

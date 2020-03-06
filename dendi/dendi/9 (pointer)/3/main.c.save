@@ -1,0 +1,17 @@
+#include "header.h"
+
+int main()
+{
+    int *ar1, *ar2, *ar3;
+    ar1=ar2=ar3=malloc(sizeof(*ar1));
+    printf("initDynArray(*ar1, 5)\n");
+    initDynArray(&ar1,5);
+    printf("initDynArray(&ar1,5)\n");
+    printf("\n");
+    initDynArray(&ar2,4);
+    printf("initDynArray(&ar2,4)\n");
+    printf("\n");
+    initDynArray(&ar3,6);
+    
+    return 0;
+}

@@ -1,0 +1,89 @@
+body{
+	
+	beckground-size: 100%;
+	background-position: center;
+	background-color: palevioletred;
+	height:center;
+}
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+}
+div.logo img{
+	float: left;
+	width: 150px;
+	height: auto;
+	margin-left: auto;
+	padding: 5px 0px;
+}
+ul{
+	margin-left: 20px;
+}
+ul li{
+	display: inline-block;
+	font-size: 15px;
+	margin-top: 30px;
+}
+ul li a{
+	text-decoration: none;
+	color: white;
+	padding: 5px 10px;
+	border: 1px solid;
+	transition: 0.4s ease;
+	margin-left: 20;
+}
+p{
+color: white;
+}
+div.produk1{
+	border: 20px solid gray;
+	margin-top: 40px;
+	color: white;
+	width : 600px;
+	padding: 15px;
+	float: right;
+}
+div.produk2{
+	border: 20px solid gray;
+	margin-top: 40px;
+	color: white;
+	width : 600px;
+	padding: 15px;
+	float: right;
+}
+div.produk3{
+	border: 20px solid grey;
+	margin-top: 40px;
+	color: white;
+	width : 600px;
+	padding: 15px;
+	float: right;
+}
+div.produk4{
+	border: 20px solid gray;
+	margin-top: 40px;
+	color: white;
+	width : 600px;
+	padding: 15px;
+	float: right;
+}
+div.produk5{
+	border: 20px solid grey;
+	margin-top: 40px;
+	color: white;
+	width : 600px;
+	padding: 15px;
+	float: right;
+}
+div.produk6{
+	border: 20px solid grey;
+	margin-top: 40px;
+	color: white;
+	width : 600px;
+	padding: 15px;
+	float: right;
+}
+h1{
+	color:maroon;
+}

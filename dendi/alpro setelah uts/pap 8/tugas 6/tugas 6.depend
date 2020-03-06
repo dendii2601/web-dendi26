@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1558631584 source:d:\alpro setelah uts\pap 8\tugas 6\fungsi.c
+	"header.h"
+
+1558648094 d:\alpro setelah uts\pap 8\tugas 6\header.h
+
+1558648662 source:d:\alpro setelah uts\pap 8\tugas 6\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1558648076 source:d:\alpro setelah uts\pap 8\tugas 6\fumgsi.c
+	"header.h"
+
+1558661152 source:i:\alpro setelah uts\pap 8\tugas 6\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1558661474 source:i:\alpro setelah uts\pap 8\tugas 6\fungsi.c
+	"header.h"
+
+1558661094 i:\alpro setelah uts\pap 8\tugas 6\header.h
+

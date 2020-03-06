@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554996276 source:d:\alpro\tugas alpro pap 6\tugas 2\fungsi.c
+	"header.h"
+
+1554996304 d:\alpro\tugas alpro pap 6\tugas 2\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1554993140 source:d:\alpro\tugas alpro pap 6\tugas 2\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553816470 source:d:\alpro\coba\selectionsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1553816758 source:d:\alpro\coba\selectionsort\fungsi.c
+	"header.h"
+
+1553816746 d:\alpro\coba\selectionsort\header.h
+

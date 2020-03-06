@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1558666126 source:e:\dendi\pertemuan 3\fungsi.c
+	"header.h"
+
+1558666103 e:\dendi\pertemuan 3\header.h
+
+1558665915 source:e:\dendi\pertemuan 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1562246248 source:d:\alpro setelah uts\pertemuan\dendi\pertemuan 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1558666194 d:\alpro setelah uts\pertemuan\dendi\pertemuan 3\header.h
+

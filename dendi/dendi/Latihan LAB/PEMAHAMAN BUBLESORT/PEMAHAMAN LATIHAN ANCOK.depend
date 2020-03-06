@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553220838 source:e:\pemahaman latihan ancok\fungsi.c
+	"header.h"
+
+1553219659 e:\pemahaman latihan ancok\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1553221192 source:e:\pemahaman latihan ancok\main.c
+	"header.h"
+

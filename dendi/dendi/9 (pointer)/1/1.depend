@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1558948526 source:g:\alpro\9\1\fungsi.c
+	"header.h"
+
+1558948242 g:\alpro\9\1\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1558948866 source:g:\alpro\9\1\main.c
+	"header.h"
+
+1558948526 source:c:\users\userpc\downloads\dendi\9 (pointer)\1\fungsi.c
+	"header.h"
+
+1558948242 c:\users\userpc\downloads\dendi\9 (pointer)\1\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1558949058 source:c:\users\userpc\downloads\dendi\9 (pointer)\1\main.c
+	"header.h"
+

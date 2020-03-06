@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1558063449 source:d:\program files\materi arrau rekuren\fungsi.c
+	"header.h"
+
+1558063266 d:\program files\materi arrau rekuren\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1558063478 source:d:\program files\materi arrau rekuren\main.c
+	"header.h"
+
+1558265958 source:d:\materi arrau rekuren\fungsi.c
+	"header.h"
+
+1558265958 d:\materi arrau rekuren\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1558265958 source:d:\materi arrau rekuren\main.c
+	"header.h"
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1553223022 source:e:\seclection tool_agra\fungsi.c
+	"header.h"
+
+1553223022 e:\seclection tool_agra\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1553223050 source:f:\seclection tool_agra\main.c
+	"header.h"
+
+1553223024 f:\seclection tool_agra\header.h
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1553827730 source:f:\alpro\pertemuan5\pahami\fungsi.c
+	"header.h"
+
+1553827040 f:\alpro\pertemuan5\pahami\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1553827666 source:f:\alpro\pertemuan5\pahami\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1553827666 source:d:\alpro\pertemuan5\pahami\main.c
+	<stdio.h>
+	<stdlib.h>
+

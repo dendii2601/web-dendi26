@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1557457930 source:h:\pertemuan abis uts\main.c
+	"header.h"
+
+1557457930 h:\pertemuan abis uts\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1557458038 source:h:\pertemuan abis uts\fungsi.c
+	"header.h"
+
+1557458038 source:f:\academic\semester 2\(4 sks) algoritma dan pemprograman\latihan lab\p-7 rekursif\fungsi.c
+	"header.h"
+
+1557457930 f:\academic\semester 2\(4 sks) algoritma dan pemprograman\latihan lab\p-7 rekursif\header.h
+	<stdio.h>
+	<stdlib.h>
+

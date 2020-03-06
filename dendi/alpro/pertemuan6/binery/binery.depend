@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1554433084 source:f:\alpro\pertemuan6\binery\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1554433090 source:f:\alpro\pertemuan6\binery\fungsi.c
+	"header.h"
+
+1554433076 f:\alpro\pertemuan6\binery\header.h
+
+1554433084 source:d:\alpro\pertemuan6\binery\main.c
+	<stdio.h>
+	<stdlib.h>
+

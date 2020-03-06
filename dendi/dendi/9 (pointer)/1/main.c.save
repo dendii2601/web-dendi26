@@ -1,0 +1,14 @@
+#include "header.h"
+
+int main()
+{
+    int a=2, b=4, c=6, d=9 , e=5;
+    printf("a=2, b=4, c=6, d=9 , e=5");
+    swapValue(&a,&b);
+    printf("swapValue(a,b)\na=%d b=%d",);
+    swapValue(&c,&d);
+    printf("swapValue(c,d)",);
+    swapValue(&e,&c);
+    printf("swapValue(e,c)",);
+    return 0;
+}

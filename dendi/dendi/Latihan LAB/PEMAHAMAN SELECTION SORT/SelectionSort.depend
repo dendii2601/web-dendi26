@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1553754651 source:e:\lol\selectionsort\main.c
+	"header.h"
+
+1553754651 e:\lol\selectionsort\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1553754732 source:e:\lol\selectionsort\fungsi.c
+	"header.h"
+
+1553756143 source:d:\labdas\alpro\pertemuan 5 (sequential search)\selectionsort\fungsi.c
+	"header.h"
+
+1553756144 d:\labdas\alpro\pertemuan 5 (sequential search)\selectionsort\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1553756144 source:d:\labdas\alpro\pertemuan 5 (sequential search)\selectionsort\main.c
+	"header.h"
+
+1553756144 source:d:\labdas\alpro\pertemuan 5 (sequential search)\pemahaman\main.c
+	"header.h"
+
+1553785012 d:\labdas\alpro\pertemuan 5 (sequential search)\pemahaman\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1553824610 source:e:\pemahaman\main.c
+	"header.h"
+
+1553824668 e:\pemahaman\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1553824698 source:e:\pemahaman\fungsi.c
+	"header.h"
+

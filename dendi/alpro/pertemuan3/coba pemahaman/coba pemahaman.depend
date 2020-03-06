@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1553210696 source:d:\alpro\pertemuan3\coba pemahaman\fungsi.c
+	"header.h"
+
+1553210560 d:\alpro\pertemuan3\coba pemahaman\header.h
+
+1553210826 source:d:\alpro\pertemuan3\coba pemahaman\main.c
+	<stdio.h>
+	<stdlib.h>
+

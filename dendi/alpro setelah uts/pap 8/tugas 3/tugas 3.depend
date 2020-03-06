@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1558538662 source:d:\alpro setelah uts\pap 8\tugas 3\fungsi.c
+	"header.h"
+
+1558538436 d:\alpro setelah uts\pap 8\tugas 3\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1558538496 source:d:\alpro setelah uts\pap 8\tugas 3\main.c
+	<stdio.h>
+	<stdlib.h>
+

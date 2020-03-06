@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1558666676 source:f:\latihan_pointer\fungsi.c
+	"header.h"
+
+1558666590 f:\latihan_pointer\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1558665942 source:f:\latihan_pointer\main.c
+	"header.h"
+
+1558666676 source:d:\alpro setelah uts\latihan lab\lat pointer\fungsi.c
+	"header.h"
+
+1558666590 d:\alpro setelah uts\latihan lab\lat pointer\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1558666712 source:d:\alpro setelah uts\latihan lab\lat pointer\main.c
+	"header.h"
+

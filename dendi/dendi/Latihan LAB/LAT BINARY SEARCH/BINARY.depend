@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1554432936 source:f:\binary\fungsi.c
+	"header.h"
+
+1554432936 f:\binary\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1554432936 source:f:\academic\semester 2\(4 sks) algoritma dan pemprograman\latihan lab\binary\fungsi.c
+	"header.h"
+
+1554432936 f:\academic\semester 2\(4 sks) algoritma dan pemprograman\latihan lab\binary\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1554433010 source:f:\academic\semester 2\(4 sks) algoritma dan pemprograman\latihan lab\binary\main.c
+	"header.h"
+

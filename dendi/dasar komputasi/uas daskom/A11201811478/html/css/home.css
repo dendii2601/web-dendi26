@@ -1,0 +1,45 @@
+body{
+	
+	beckground-size: 100%;
+	background-position: center;
+	background-color: palevioletred;
+	height:center;
+}
+div.logo img{
+	float: left;
+	width: 150px;
+	height: auto;
+	margin-left: 50px;
+	padding: 5px 0px;
+}
+ul{
+	float: left-top;
+}
+ul li{
+	display: inline-block;
+	font-size: 15px;
+	margin-top: 30px;
+}
+ul li a{
+	text-decoration: none;
+	color: white;
+	padding: 5px 10px;
+	border: 1px solid;
+	transition: 0.4s ease;
+	margin-left: 20;
+}
+h1.judul{
+	color: white;
+}
+div.pilih{
+	text-align: center;
+	margin-top: 40px;
+	color: white;
+	width : 600px;
+	padding: 15px;
+	float: center;
+}
+p{
+	color: white;
+	font-size: 20px;
+}

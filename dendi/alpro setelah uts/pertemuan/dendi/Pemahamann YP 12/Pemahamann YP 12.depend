@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1558666606 source:e:\pemahamann yp 12\fungsi.c
+	"header.h"
+
+1558666606 e:\pemahamann yp 12\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1558666680 source:e:\pemahamann yp 12\main.c
+	"header.h"
+
+1562195956 source:c:\users\userpc\downloads\dendi\pemahamann yp 12\fungsi.c
+	"header.h"
+
+1562195956 c:\users\userpc\downloads\dendi\pemahamann yp 12\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1562195956 source:c:\users\userpc\downloads\dendi\pemahamann yp 12\main.c
+	"header.h"
+

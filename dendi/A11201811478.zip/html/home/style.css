@@ -1,0 +1,16 @@
+h2{
+    float: top;
+    color: blue;
+	margin-top: 5px;
+	margin-right: 15px;
+	font-size: 35px;
+}
+pre
+{
+	float: right;
+	margin-top: 5px;
+	margin-right: 15px;
+	font-size: 35px;
+	
+
+}

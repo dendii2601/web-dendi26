@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1552616429 source:e:\3file pemahaman 2\fungsi.c
+	"header.h"
+
+1552615010 e:\3file pemahaman 2\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1552616429 source:e:\3file pemahaman 2\main.c
+	"header.h"
+

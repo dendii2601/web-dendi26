@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1552567410 source:e:\pap 2\tugas 2\tugas 2\main.c
+	"header.h"
+
+1552567123 e:\pap 2\tugas 2\tugas 2\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1552567437 source:e:\pap 2\tugas 2\tugas 2\fungsi.c
+	"header.h"
+
+1552576317 source:c:\users\userpc\documents\dendi\pap 2\tugas 2\fungsi.c
+	"header.h"
+
+1552576393 c:\users\userpc\documents\dendi\pap 2\tugas 2\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1552576358 source:c:\users\userpc\documents\dendi\pap 2\tugas 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1552576550 source:d:\alpro\tugas alpro pap 2\tugas 2\fungsi.c
+	"header.h"
+
+1552576394 d:\alpro\tugas alpro pap 2\tugas 2\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1552576360 source:d:\alpro\tugas alpro pap 2\tugas 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

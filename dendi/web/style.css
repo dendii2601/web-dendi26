@@ -1,0 +1,21 @@
+h2
+{
+	float: top;
+	color: #fff0;
+	margin-top: 5px;
+	margin-right: 15px;
+	font-size: 35px;
+}
+p{
+	float: right-top;
+	margin-top: 10px;
+	margin-right: 5px;
+	font-size: 10px;
+}
+img{
+	float: left;
+	width: 200px;
+	height: auto;
+	margin-left: auto;
+	padding: 5px 0px;
+}

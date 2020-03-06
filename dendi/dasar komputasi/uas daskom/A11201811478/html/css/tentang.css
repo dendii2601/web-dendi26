@@ -1,0 +1,83 @@
+body{
+	
+	beckground-size: 100%;
+	background-position: center;
+	background-color: palevioletred;
+	height:center;
+}
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+}
+.logo img{
+	float: left;
+	width: 150px;
+	height: auto;
+	margin-left: auto;
+	padding: 5px 0px;
+}
+ul{
+	margin-left: 20px;
+}
+ul li{
+	display: inline-block;
+	font-size: 15px;
+	margin-top: 30px;
+}
+ul li a{
+	text-decoration: none;
+	color: white;
+	padding: 5px 10px;
+	border: 1px solid;
+	transition: 0.4s ease;
+	margin-left: 20;
+}
+div.artikel1{
+	border: 20px solid grey;
+	margin-top: 40px;
+	margin-right: 
+	color: white;
+	width : 600px;
+	padding: 15px;
+	float: right;
+}
+div.artikel2{
+	border: 20px solid grey;
+	margin-top: 40px;
+	margin-right: 
+	color: white;
+	width : 600px;
+	padding: 15px;
+	float: right;
+}
+
+div.artikel3{
+	border: 20px solid grey;
+	margin-top: 40px;
+	margin-right: 
+	color: white;
+	width : 600px;
+	padding: 15px;
+	float: right;
+}
+form h4{
+	margin:auto;
+	color: white;
+	font-size: 20px;
+}
+div.asus{
+	border: 20px solid grey;
+	margin-top: 40px;
+	margin-right: 
+	color: white;
+	width : 600px;
+	padding: 15px;
+	float: right;
+}
+p{
+	color: white;
+}
+h1.judul{
+	color: white;
+}

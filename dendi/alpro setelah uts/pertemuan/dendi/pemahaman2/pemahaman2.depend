@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1558664179 source:e:\dendi\pemahaman2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1558664165 source:e:\dendi\pemahaman2\fungsi.c
+	"header.h"
+
+1558664030 e:\dendi\pemahaman2\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1562599740 source:d:\alpro setelah uts\pertemuan\dendi\pemahaman2\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1561085875 source:d:\qwdew\main.c
+	"pustaka.h"
+
+1561085875 d:\qwdew\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1561084977 source:d:\qwdew\pustaka.c
+	"pustaka.h"
+

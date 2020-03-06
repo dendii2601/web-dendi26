@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1546563722 source:d:\daspro setelah uts\uas\daspro_uas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1546491718 source:e:\daspro setelah uts\uas\daspro_uas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1547025634 source:d:\daspro setelah uts\uas\uas_daspro_4115.11478\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1552617770 source:e:\latihan 3\main.c
+	"header.h"
+
+1552617694 e:\latihan 3\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1552617821 source:e:\latihan 3\fungsi.c
+	"header.h"
+
+1552617942 source:f:\latihan 3\main.c
+	"header.h"
+
+1552617696 f:\latihan 3\header.h
+	<stdio.h>
+	<stdlib.h>
+
